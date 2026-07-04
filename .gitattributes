@@ -1,0 +1,3 @@
+# Force Husky hooks to use LF line endings
+.husky/* text eol=lf
+.husky/_/* text eol=lf
