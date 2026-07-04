@@ -193,6 +193,7 @@ docker compose up --build
 
 ### Commit Message Rules
 We strictly enforce **Conventional Commits**. Your commit messages must be prefixed with a valid semantic type.
+* **Format**: `type(optional-scope): lowercase description`
 * **Allowed Types**: `feat`, `fix`, `chore`, `docs`, `style`, `refactor`, `test`, `ci`, `build`
 * **Example**: `chore: husky and lint-staged configuration`
 
