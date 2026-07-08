@@ -109,8 +109,7 @@ This project serves as a backend engineering reference covering topics such as:
 - Error Logging
 - Health Checks
 - Metrics
-- Prometheus
-- Grafana
+- AWS CloudWatch
 
 ---
 
@@ -134,7 +133,7 @@ This project serves as a backend engineering reference covering topics such as:
 - Docker Compose
 - Nginx
 - GitHub Actions
-- AWS EC2 Deployment
+- AWS Deployment
 
 ---
 
